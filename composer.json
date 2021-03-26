@@ -3,7 +3,7 @@
   "description": "Library for genba api 3.0",
   "type": "library",
   "require": {
-    "guzzlehttp/guzzle": "^7.3",
+    "guzzlehttp/guzzle": "*",
     "php": ">=7.0"
   },
   "authors": [
